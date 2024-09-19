@@ -5,6 +5,7 @@
 This repository contains two machine learning projects utilizing logistic regression algorithms:
 
 Loan Approval Prediction: A project that predicts loan approval status based on various financial and personal features.
+
 Wine Data Classification: A project that classifies wine quality based on physicochemical properties using logistic regressionProject 
 
 1: Loan Approval Prediction
